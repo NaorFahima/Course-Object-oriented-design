@@ -1,2 +1,2 @@
-# Course-Object-oriented-design
-Homework in the Object oriented design course
+# Object-oriented-design
+Object oriented design projects
